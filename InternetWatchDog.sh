@@ -1,4 +1,7 @@
 #!/bin/sh
+
+#  /config/scripts/post-config.d/InternetWatchdog.sh
+
 STARTUP_DELAY=120
 HOSTS="8.8.8.8 1.1.1.1"
 MAX_MISS=3
